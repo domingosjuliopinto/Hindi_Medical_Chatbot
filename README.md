@@ -16,6 +16,15 @@ and process the information. So in order to solve all this problem we made a Hea
 chatbot in Hindi which will help people to get information in Hindi about various health diseases,
 symptoms and home remedies to cure the disease.
 
+## Technologies Used
+- Python
+- Colab
+- Gradio
+
+## Features
+- It will give you knowledge regarding the sickness based on your questions
+- It will guess what sickness you have based on the symptoms 
+
 ## Screenshots
 
 ![Capture](https://user-images.githubusercontent.com/71319075/199654603-c18349a0-777d-4d9d-a996-81c8c4360077.PNG)
@@ -26,3 +35,6 @@ symptoms and home remedies to cure the disease.
 ![Capture5](https://user-images.githubusercontent.com/71319075/199654669-a175137f-23e2-4f67-be9d-450b144413c1.PNG)
 ![Capture6](https://user-images.githubusercontent.com/71319075/199654562-27ec9bb6-b27b-426b-bca1-843be3feb361.PNG)
 
+## Drawbacks
+* It's an extractive type chatbot
+* It will show the previous chats it had as well before you begin a new one 
