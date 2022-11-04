@@ -1,4 +1,4 @@
-# Hindi_Medical_Chatbot
+# Hindi Medical Chatbot
 
 ## Introduction
 
@@ -24,5 +24,6 @@ Language is a very important thing in this world which helps us bond together, t
 ![Capture6](https://user-images.githubusercontent.com/71319075/199654562-27ec9bb6-b27b-426b-bca1-843be3feb361.PNG)
 
 ## Drawbacks
-* It's an extractive type chatbot
-* It will show the previous chats it had as well before you begin a new one 
+* It's an extractive type chatbot and follows a particular sequence.
+* It will show the previous chats it had before you begin a new conversation (if it's hosted or if u haven't re-executed the gradio code).
+* It's a primitive system and has a chance to fail/waste time if the user will not input topics related to medical health topic.
