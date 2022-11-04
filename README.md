@@ -2,22 +2,10 @@
 
 ## Introduction
 
-Language is a very important thing in this world. Language is the core need of humans which
-helps us bond together, talk to people, understand each other and do many more things. Many
-people in the world only know one language that is their mother tongue. In a country like India,
-many people mostly in the north and the central region of India, people mostly know only hindi
-or the regional language used in their region. Many people who aren’t educated or are educated
-in hindi medium prefer to communicate or read and write in hindi. The information provided on
-the internet or the chatbots only facilitate or use English as their primary language which makes
-it difficult for people who don’t know hindi to understand and process the information. Many
-people in this region want to know or get information about various diseases or health related
-issues. But due to the information available in English, it's difficult for the people to understand
-and process the information. So in order to solve all this problem we made a Health
-chatbot in Hindi which will help people to get information in Hindi about various health diseases,
-symptoms and home remedies to cure the disease.
+Language is a very important thing in this world which helps us bond together, talk to people, understand each other and do many more things. Many people in the world only know one language that is their mother tongue. In a country like India,many people mostly in the north and the central region of India, know only hindi or the regional language used in their region. Many people who aren’t educated or are educated in hindi medium prefer to communicate or read and write in hindi. The information provided on the internet or the chatbots only facilitate or use English as their primary language which makes it difficult for people who don’t know English. Many people in this region want to know or get information about various diseases or health related issues but due to the information available in English, it's difficult for the people to understand and process the information. So in order to solve all this problem we made a Health chatbot in Hindi which will help people to get information in Hindi about various health diseases, symptoms and home remedies to cure the disease and respond to the chatbot in hindi only.
 
 ## Technologies Used
-- Python
+- Python and Various Python Libraries
 - Colab
 - Gradio
 
