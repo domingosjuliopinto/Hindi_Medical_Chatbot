@@ -27,3 +27,10 @@ Language is a very important thing in this world which helps us bond together, t
 * It's an extractive type chatbot and follows a particular sequence.
 * It will show the previous chats it had before you begin a new conversation (if it's hosted or if u haven't re-executed the gradio code).
 * It's a primitive system and has a chance to fail/waste time if the user will not input topics related to medical health topic.
+
+## References
+* <a href='https://gradio.app/creating_a_chatbot/'>Using Gradio Chatbot</a>
+* <a href='https://www.kaggle.com/datasets/aijain/hindi-health-dataset?select=Hindi+Health+Data.txt'>Dataset</a>
+* <a href='https://inltk.readthedocs.io/en/latest/api_docs.html'>iNLTK</a>
+* <a href='https://www.nltk.org/'>NLTK</a>
+* <a href='https://www.nltk.org/api/nltk.tokenize.html'>NLTK Tokenize</a>
