@@ -24,13 +24,13 @@ Language is a very important thing in this world which helps us bond together, t
 - It will guess what sickness you have based on the symptoms 
 
 ## Activity Diagrams
-Activity Diagram to select Module
-![](diagrams/selectingmod.png)
-Activity diagram for preprocessing
-![](diagrams/preprocess.png)
-Activity Diagram for sickness knowledge module
-![](diagrams/sickknowledge.png)
-Activity Diagram for symptoms to sickness module
+Activity Diagram to select Module<br>
+![](diagrams/selectingmod.png)<br>
+Activity diagram for preprocessing<br>
+![](diagrams/preprocess.png)<br>
+Activity Diagram for sickness knowledge module<br>
+![](diagrams/sickknowledge.png)<br>
+Activity Diagram for symptoms to sickness module<br>
 ![](diagrams/symptosick.png)
 
 ## Screenshots
