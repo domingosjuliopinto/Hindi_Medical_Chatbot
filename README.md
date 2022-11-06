@@ -1,4 +1,14 @@
 # Hindi Medical Chatbot
+This is a Medical Health Chatbot in Hindi Language. It is an extractive chatbot and will chat with the user in hindi language only.
+
+# This Readme Contains
+* [Introduction](#introduction)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Activity Diagrams](#activity-diagrams)
+* [Screenshots](#screenshots)
+* [Drawbacks](#drawbacks)
+* [References](#references)
 
 ## Introduction
 
@@ -12,6 +22,16 @@ Language is a very important thing in this world which helps us bond together, t
 ## Features
 - It will give you knowledge regarding the sickness based on your questions
 - It will guess what sickness you have based on the symptoms 
+
+## Activity Diagrams
+Activity Diagram to select Module
+![](diagrams/selectingmod.png)
+Activity diagram for preprocessing
+![](diagrams/preprocess.png)
+Activity Diagram for sickness knowledge module
+![](diagrams/sickknowledge.png)
+Activity Diagram for symptoms to sickness module
+![](diagrams/symptosick.png)
 
 ## Screenshots
 
